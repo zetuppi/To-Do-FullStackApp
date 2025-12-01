@@ -30,7 +30,7 @@ Siga os comandos abaixo para configurar e iniciar o projeto localmente:
 
 ```sh
 # Passo 1: Clone o repositório
-git clone <[URL_DO_SEU_REPOSITORIO](https://github.com/zetuppi/To-Do-FullStackApp/tree/main)>
+git clone <https://github.com/zetuppi/To-Do-FullStackApp/tree/main>
 
 # Passo 2: Navegue até a pasta do projeto
 cd <To-Do-FullStackApp>
